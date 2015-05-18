@@ -1,0 +1,42 @@
+[22:01:01] [Client thread/INFO]: Setting user: Player708
+[22:01:04] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:01:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:MyMods
+[22:01:07] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:01:07] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[22:01:07] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:01:07] [Thread-7/INFO]: OpenAL initialized.
+[22:01:07] [Sound Library Loader/INFO]: Sound engine started
+[22:01:08] [Client thread/INFO]: Created: 512x512 textures-atlas
+[22:01:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:MyMods
+[22:01:09] [Client thread/INFO]: SoundSystem shutting down...
+[22:01:09] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[22:01:09] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:01:10] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[22:01:10] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:01:10] [Thread-9/INFO]: OpenAL initialized.
+[22:01:10] [Sound Library Loader/INFO]: Sound engine started
+[22:01:10] [Client thread/INFO]: Created: 512x512 textures-atlas
+[22:01:14] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[22:01:14] [Server thread/INFO]: Generating keypair
+[22:01:15] [Server thread/INFO]: Preparing start region for level 0
+[22:01:16] [Server thread/INFO]: Preparing spawn area: 49%
+[22:01:16] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:01:17] [Server thread/INFO]: Player708[local:E:072c2c28] logged in with entity id 125 at (-42.9255918287122, 69.62228172322706, 4.436231547029394)
+[22:01:17] [Server thread/INFO]: Player708 joined the game
+[22:01:37] [Server thread/INFO]: [Player708: Changing to rainy weather]
+[22:01:37] [Client thread/INFO]: [CHAT] Changing to rainy weather
+[22:01:47] [Server thread/INFO]: Player708 has just earned the achievement [Taking Inventory]
+[22:01:47] [Client thread/INFO]: [CHAT] Player708 has just earned the achievement [Taking Inventory]
+[22:02:34] [Server thread/INFO]: Saving and pausing game...
+[22:02:34] [Server thread/INFO]: Saving chunks for level 'TestingModding'/Overworld
+[22:02:34] [Server thread/INFO]: Saving chunks for level 'TestingModding'/Nether
+[22:02:34] [Server thread/INFO]: Saving chunks for level 'TestingModding'/The End
+[22:02:35] [Server thread/INFO]: Stopping server
+[22:02:35] [Server thread/INFO]: Saving players
+[22:02:35] [Server thread/INFO]: Saving worlds
+[22:02:35] [Server thread/INFO]: Saving chunks for level 'TestingModding'/Overworld
+[22:02:35] [Server thread/INFO]: Saving chunks for level 'TestingModding'/Nether
+[22:02:35] [Server thread/INFO]: Saving chunks for level 'TestingModding'/The End
+[22:02:37] [Client thread/INFO]: Stopping!
+[22:02:37] [Client thread/INFO]: SoundSystem shutting down...
+[22:02:38] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
